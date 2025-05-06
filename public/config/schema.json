@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "title": "Oh my way project"
+    },
+    "sidebar": [
+    {
+        "title": "Home",
+        "url": "/",
+        "icon": "house"
+    },
+    {
+        "title": "Inbox",
+        "url": "/inbox",
+        "icon": "inbox"
+    },
+    {
+        "title": "Calendar",
+        "url": "#",
+        "icon": "calendar"
+    },
+    {
+        "title": "Search",
+        "url": "#",
+        "icon": "search"
+    },
+    {
+        "title": "Settings",
+        "url": "#",
+        "icon": "settings"
+    }
+  ]
+}
